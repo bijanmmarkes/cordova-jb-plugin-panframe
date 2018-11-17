@@ -11,7 +11,7 @@ Although the object is in the global scope, it is not available until after the 
 
 ## Installation
 
-    cordova plugin add https://github.com/jumpbytehq/cordova-jb-plugin-panframe.git
+    cordova plugin add https://github.com/bijanmmarkes/cordova-jb-plugin-panframe.git
 
 ### Supported Platforms
 
